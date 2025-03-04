@@ -3,7 +3,6 @@
 ## Table of Contents
 - [Description](#description)
 - [Features](#features)
-- [Prerequisites](#prerequisites)
 - [How to Use](#how-to-use)
 - [Customization](#customization)
 - [Future Enhancements](#future-enhancements)
@@ -17,10 +16,6 @@ Welcome to the Temperature Converter! This Python application provides a simple 
 - **Color Indicator:** Background color changes based on the temperature range (green for cooler temperatures, red for warmer ones).
 - **Error Handling:** Displays an error message if the user enters invalid input.
 - **Clear Button:** Easily reset the input and output fields.
-
-## Prerequisites
-Before running the Temperature Converter, ensure you have the following:
-- Python 3.x installed on your system.
 
 ## How to Use
 1. Run the script using a Python interpreter.
@@ -43,6 +38,3 @@ This is a basic implementation of a Temperature Converter. Here are some ideas f
 - **History:** Store and display a history of conversions.
 - **Improved UI:** Enhance the appearance with better fonts, icons, and styles.
 - **Multi-Language Support:** Allow users to choose different languages.
-
-Enjoy using the Temperature Converter!
-
